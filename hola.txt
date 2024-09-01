@@ -7,3 +7,5 @@ mi vida comenzó en una ciudad llamada nuevo chimbote
 cuando era niño, me gustaba tocar una guitarra real
 
 cuando crecí, me comenzaron a gustar las comptuadoras
+
+develop: por alguna razón, elegí la carrera de ing de sistemas
